@@ -1,0 +1,2 @@
+# it-cybersecurity-journey
+My personal year-long journey into IT and cybersecurity — building labs, tackling challenges, and documenting the skills and tools I pick up along the way.
