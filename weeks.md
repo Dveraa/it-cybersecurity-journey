@@ -3,7 +3,6 @@ layout: page
 title: All Weeks
 permalink: /weeks/
 ---
-
 <ul class="post-list">
   {% for post in site.posts %}
     <li>
