@@ -1,7 +1,5 @@
 ---
 ---
 
-@import "minima";
-
-/* Hide the footer's description column */
-.footer-col-3 { display: none; }
+@import "minima";  // Load the default theme
+@import "custom";  // Load your custom styles
