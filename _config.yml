@@ -3,6 +3,11 @@ description: My personal year-long journey into IT and cybersecurity — buildin
 theme: minima
 show_excerpts: false
 
+# Use custom CSS from /assets/main.scss
+sass:
+  sass_dir: _sass
+  style: compressed
+
 minima:
   social_links:
     - { platform: github,  user_url: https://github.com/Dveraa }
