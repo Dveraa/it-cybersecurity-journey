@@ -1,17 +1,24 @@
-title: IT & Cybersecurity Journey
-description: My personal year-long journey into IT and cybersecurity — building labs, tackling challenges, and documenting the skills and tools I pick up along the way.
+title: "IT & Cybersecurity Journey"
+description: "My personal year-long journey into IT and cybersecurity — building labs, tackling challenges, and documenting the skills and tools I pick up along the way."
 theme: minima
 show_excerpts: false
 
-# Custom SCSS (loads /assets/main.scss)
+# Top navigation
+header_pages:
+  - index.md
+  - weeks.md
+  - about.md
+
+# SCSS compilation (partials live in _sass/, entry is assets/main.scss)
 sass:
   sass_dir: _sass
   style: compressed
 
+# Optional social links in footer (add your LinkedIn later)
 minima:
   social_links:
-    - { platform: github, user_url: "https://github.com/Dveraa" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/" } # add your LinkedIn later
+    - { platform: github,  user_url: "https://github.com/Dveraa" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/" }
 
-# Pretty permalinks for posts
-permalink: /:categories/:year-:month-:day-:title/
+# Pretty post URLs
+permalink: "/:categories/:year-:month-:day-:title/"
