@@ -3,3 +3,12 @@
 
 @import "minima";  // Load the default theme
 @import "custom";  // Load your custom styles
+ /* Homepage list spacing + stronger titles */
+.post-list { margin-top: 1.25rem; }
+.post-list > li { margin-bottom: 1.1rem; }
+.post-list > li h3 {
+  font-weight: 800;
+  font-size: 1.6rem;
+  margin: 0 0 .2rem 0;
+}
+.post-meta { font-size: .9rem; opacity: .7; }
