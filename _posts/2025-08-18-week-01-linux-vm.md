@@ -1,4 +1,4 @@
-------
+---
 layout: post
 title: "Week 1 – Installing My First Linux VM"
 categories: journey
