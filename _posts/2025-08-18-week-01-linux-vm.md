@@ -1,4 +1,4 @@
----
+------
 layout: post
 title: "Week 1 – Installing My First Linux VM"
 categories: journey
@@ -20,11 +20,3 @@ Learn how to install and run a Linux virtual machine using VirtualBox.
 **What I Learned**  
 - How virtualization works  
 - Basic Linux navigation commands
-
-**Artifacts**  
-- Screenshots of the VM and terminal  
-- VM settings used for install
-
-**Resources**  
-- https://www.virtualbox.org  
-- https://ubuntu.com/download/desktop
