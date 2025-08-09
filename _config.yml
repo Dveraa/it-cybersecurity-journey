@@ -1,3 +1,12 @@
 title: IT & Cybersecurity Journey
 description: My personal year-long journey into IT and cybersecurity — building labs, tackling challenges, and documenting the skills and tools I pick up along the way.
 theme: minima
+show_excerpts: true
+
+minima:
+  social_links:
+    - { platform: github,  user_url: https://github.com/Dveraa }
+    - { platform: linkedin, user_url: https://www.linkedin.com/in/ } # add later
+
+# Optional: pretty permalinks
+permalink: /:categories/:year-:month-:day-:title/
