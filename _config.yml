@@ -2,7 +2,6 @@ title: IT & Cybersecurity Journey
 description: My personal year-long journey into IT and cybersecurity — building labs, tackling challenges, and documenting the skills and tools I pick up along the way.
 theme: minima
 show_excerpts: false
----
 header_pages:
   - index.md
   - weeks.md
