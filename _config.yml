@@ -3,12 +3,6 @@ description: My personal year-long journey into IT and cybersecurity — buildin
 theme: minima
 show_excerpts: false
 
-# Pages to show in the top navigation bar
-header_pages:
-  - index.md
-  - weeks.md
-  - about.md
-
 # Custom SCSS (loads /assets/main.scss)
 sass:
   sass_dir: _sass
